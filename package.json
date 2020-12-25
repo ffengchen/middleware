@@ -1,0 +1,22 @@
+{
+  "name": "mvcjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ffengchen/mvcjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ffengchen/mvcjs/issues"
+  },
+  "homepage": "https://github.com/ffengchen/mvcjs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
